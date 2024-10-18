@@ -1,0 +1,20 @@
+*{
+  background: black;
+}
+h1,p{
+  color: aliceblue;
+  text-align: center;
+  
+ 
+}
+button{
+  color: aliceblue;
+  text-align: center;
+  
+  
+ 
+}
+
+.button-container{
+  margin-left: 25rem;
+}
